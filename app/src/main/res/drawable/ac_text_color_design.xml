@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- button text color when button is not pressed -->
+    <item android:state_pressed="false" android:color="@color/colorGradientCenter"/>
+
+    <!-- button text color when button pressed -->
+    <item android:state_pressed="true" android:color="@color/colorWhite"/>
+
+</selector>
